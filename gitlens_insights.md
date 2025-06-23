@@ -11,4 +11,4 @@ January 24, 2022
 actored main CLI entry point"
 
 ## 📷 Screenshots
-- `Screenshot1.png` — GitLens inline blame
+- `Screenshot1.png` — GitLens inline
